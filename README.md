@@ -98,6 +98,16 @@ Validated with 42 test cases across unit, integration, and model-accuracy testin
 
 ---
 
+## My Contributions — Om Joshi
+
+I owned the **entire machine learning component** of this project:
+
+- Conceived and proposed the original project idea
+- Selected the ML approach and models — **Linear Regression** for grade prediction and a **Decision Tree** classifier for risk assessment
+- Built, trained, and evaluated both models (data preprocessing, feature analysis, and metric evaluation using R², MAE, RMSE, accuracy, precision, recall, and F1)
+
+---
+
 ## Team
 
 Academic group project — Department of Computer Engineering, DEPSTAR, CHARUSAT University.
